@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anshbagwar
-- 👀 I’m interested in web development and data science
-- 🌱 I’m currently learning python and html
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my email: anshbagwarsai@gmail.com or through my linkedin: https://www.linkedin.com/in/ansh-bagwar-339b42251 
 
